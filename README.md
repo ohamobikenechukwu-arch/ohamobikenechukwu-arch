@@ -1,6 +1,6 @@
 # Hi, I'm Mercy 👋🏾
 
-### Frontend Developer in Training · Content Creator · Based in Anambra, Nigeria 🇳🇬
+### Frontend Developer in Training · Content Creator · Based in Anambra, Nigeria 
 
 ---
 
